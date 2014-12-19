@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(345,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  boostMst.cpp
+..\src\boostMst.cpp(75): error C2955: “boost::detail::edge_base”: 使用类 模板 需要 模板 参数列表
+          D:\Program Files\boost_1_56_0\boost/graph/detail/edge.hpp(22) : 参见“boost::detail::edge_base”的声明
+          D:\Program Files\boost_1_56_0\boost/graph/detail/edge.hpp(22) : 参见“boost::detail::edge_base”的声明
+..\src\boostMst.cpp(75): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MST_64", "..\conf\MST_64.vcxproj", "{0CE0AC03-D561-494C-B8A5-1297C557169E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransFile", "..\conf\TransFile.vcxproj", "{8349D724-CC6B-46C9-9D70-09B9D3083577}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cmp", "..\conf\cmp.vcxproj", "{5A6A209B-4BE6-43D1-8EF4-67D7AE228601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE0AC03-D561-494C-B8A5-1297C557169E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CE0AC03-D561-494C-B8A5-1297C557169E}.Debug|Win32.Build.0 = Debug|Win32
+		{0CE0AC03-D561-494C-B8A5-1297C557169E}.Release|Win32.ActiveCfg = Release|Win32
+		{0CE0AC03-D561-494C-B8A5-1297C557169E}.Release|Win32.Build.0 = Release|Win32
+		{8349D724-CC6B-46C9-9D70-09B9D3083577}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8349D724-CC6B-46C9-9D70-09B9D3083577}.Debug|Win32.Build.0 = Debug|Win32
+		{8349D724-CC6B-46C9-9D70-09B9D3083577}.Release|Win32.ActiveCfg = Release|Win32
+		{8349D724-CC6B-46C9-9D70-09B9D3083577}.Release|Win32.Build.0 = Release|Win32
+		{5A6A209B-4BE6-43D1-8EF4-67D7AE228601}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A6A209B-4BE6-43D1-8EF4-67D7AE228601}.Debug|Win32.Build.0 = Debug|Win32
+		{5A6A209B-4BE6-43D1-8EF4-67D7AE228601}.Release|Win32.ActiveCfg = Release|Win32
+		{5A6A209B-4BE6-43D1-8EF4-67D7AE228601}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
