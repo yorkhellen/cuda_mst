@@ -42,13 +42,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 #  vs2013  
-.exe
-.ilk
-.pdb
-.vcxproj
-.filters
-.user
-.sln
-.suo
-.log
-.tlog
+*.exe
+*.ilk
+*.pdb
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.suo
+*.log
+*.tlog
