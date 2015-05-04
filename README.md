@@ -59,3 +59,5 @@ dir consrtuct:
     list : vertices index each line 
     list : edges and weight of edges each line 
     and we implement a data format program named transfile.exe  also a grogram named cmp.exe compare the results 
+    and the reault like that:
+    ![image](https://github.com/yorkhellen/cuda_mst/raw/master/mst.png)
