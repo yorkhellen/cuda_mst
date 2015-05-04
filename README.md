@@ -60,4 +60,4 @@ dir consrtuct:
     list : edges and weight of edges each line 
     and we implement a data format program named transfile.exe  also a grogram named cmp.exe compare the results 
     and the reault like that:
-    ![](https://raw.githubusercontent.com/yorkhellen/cuda_mst/master/mst.png)
+  ![](https://raw.githubusercontent.com/yorkhellen/cuda_mst/master/mst.png)  
